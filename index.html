@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>NoobTrieuSMP</title>
+<link rel="icon" href="icon.png" type="image/png">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  html, body {
+    height: 100%;
+    margin: 0;
+  }
+  #map {
+    width: 100%;
+    height: 100%;
+    .leaflet-control-zoom-in, .leaflet-control-zoom-out {
+      background-image: url('plus.png');
+      background-size: cover;
+      color: transparent;
+    }
+    .leaflet-control-zoom-out {
+      background-image: url('minus.png');
+    }
+    .leaflet-control-zoom-in:hover {
+      background-image: url('plushover.png');
+    }
+    .leaflet-control-zoom-out:hover {
+      background-image: url('minushover.png');
+    }
+    .leaflet-popup-tip-container {
+      display: none;
+    }
+    .leaflet-popup-content-wrapper {
+      background-image: url('popup.png');
+      background-color: transparent;
+      border-radius: 0
+    }
+    .leaflet-popup-content {
+      color: white;
+    }
+  }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
