@@ -1,6 +1,6 @@
 # ![NoobTrieuSMP](https://github.com/NoobTrieu/NoobTrieuSMP/blob/main/logo.png?raw=true)
 
-A private LifeSteal SMP created by me with multiple features such as custom terrain generation through the Terralith data pack and include several unique plugins, revolutionizing the Minecraft experience.
+A private lifeSteal SMP created by me with multiple features such as custom terrain generation through the Terralith data pack and include several unique plugins, revolutionizing the Minecraft experience.
 
 ## 1. How to join?
 You need to create a [pull requests](https://github.com/NoobTrieu/NoobTrieuSMP/pulls) on github in order to join the server. In it must contain:
