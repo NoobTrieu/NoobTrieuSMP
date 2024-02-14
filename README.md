@@ -55,5 +55,5 @@ Sneak + Hold left click: Make trees fall when chopping.
 The website contains an isometric screenshot showcasing the amazing builds created by our wonderful community. This screenshot will be updated once per week, unless I'm busy. [[View]](https://noobtrieu.github.io/NoobTrieuSMP/)
 ![A preview of the website](https://github.com/NoobTrieu/NoobTrieuSMP/blob/main/map.png?raw=true)
 
-## 5. Supprt
+## 5. Support
 Are you experiencing any issues with the server, or do you have an idea you'd like to implement? You're in luck! Simply create a post [here](https://github.com/NoobTrieu/NoobTrieuSMP/issues) to share your thoughts and contribute to the server's improvement.
