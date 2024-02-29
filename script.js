@@ -70,5 +70,5 @@ var home = new L.Icon({
   iconAnchor: [14, 39],
   popupAnchor: [1, -29],
 });
-L.marker([-14.0, -29.3], { icon: home }).addTo(map)
+L.marker([-11.6, -49.2], { icon: home }).addTo(map)
   .bindPopup("<b>Home</b><br>175 68 731");
