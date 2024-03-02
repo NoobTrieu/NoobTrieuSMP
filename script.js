@@ -81,3 +81,12 @@ var home = new L.Icon({
 });
 L.marker([-6, 90], { icon: home }).addTo(map)
   .bindPopup("<b>Backrooms</b><br>-13 64 950");
+
+var home = new L.Icon({
+  iconUrl: 'green.png',
+  iconSize: [30, 40],
+  iconAnchor: [14, 39],
+  popupAnchor: [1, -29],
+});
+L.marker([-11.3, -89.3], { icon: home }).addTo(map)
+  .bindPopup("<b>Stronghold</b><br>-1552 26 72");
